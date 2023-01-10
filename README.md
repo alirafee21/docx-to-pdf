@@ -7,3 +7,12 @@ A simple application that convert docx to pdf with additional feature of replaci
 This application is built with Python and PyQt5. You'll need to have Python and PyQt5 installed to use it.
 
 You will also need these packages:
+
+* docx
+* docx2pdf
+
+You can install them by doing 
+
+```pip install docx docx2pdf```
+
+
