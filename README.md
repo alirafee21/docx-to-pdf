@@ -13,6 +13,17 @@ You will also need these packages:
 
 You can install them by doing 
 
-```pip install docx docx2pdf```
+`pip install docx docx2pdf`
 
+## Usage
 
+* Run the code, the GUI will appear and ask for the file name, new text, and new file name.
+* Fill the input fields, and press the convert button.
+* Wait for the process to be finished.
+* Find the new pdf file on the same location as the original docx file.
+
+## Notes
+
+The replaced docx file will be removed in the end and the pdf file will be placed in the same location as the original docx file.
+
+Feel free to modify the code to your own use case.
