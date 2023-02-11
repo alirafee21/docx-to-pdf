@@ -10,10 +10,11 @@ You will also need these packages:
 
 * docx
 * docx2pdf
+* PyQt5
 
 You can install them by doing 
 
-`pip install docx docx2pdf`
+`pip install docx python-docx PyQt5`
 
 ## Usage
 
